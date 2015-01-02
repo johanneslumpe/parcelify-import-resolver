@@ -1,6 +1,6 @@
 {
   "name": "parcelify-import-resolver",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A parcelify transform, which allows you to import files using the node resolve algorithm.",
   "main": "index.js",
   "scripts": {
