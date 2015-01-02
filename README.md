@@ -26,7 +26,7 @@ Just add the transformer to your `transforms` property in your `package.json`:
 
 (Of course it will mainly make sense in combination with `sass-css-stream`. Make sure though that you load it _before_ `sass-css-stream`.)
 
-Now you can important your dependencies using the `!resolve(path)` syntax.
+Now you can import your dependencies using the `!resolve(path)` syntax.
 
 # install
 
