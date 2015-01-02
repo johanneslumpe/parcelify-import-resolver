@@ -6,6 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johanneslumpe/parcelify-import-resolver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johanneslumpe/parcelify-import-resolver/issues"
+  },
   "author": "Johannes Lumpe",
   "license": "MIT",
   "dependencies": {
